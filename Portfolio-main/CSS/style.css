@@ -153,6 +153,23 @@ section p{
 .image-container:hover .image-caption {
   opacity: 1;
 }
+
+
+/* Couleur de fond de l'accordéon */
+
+/* Couleur du texte des boutons d'accordéon */
+.accordion-button {
+  color: #ee6078; /* Remplacez cette valeur par la couleur de texte souhaitée */
+  background-color: #ffc0cb;
+}
+
+/* Couleur de fond des corps d'accordéon */
+.accordion-body {
+  background-color: #ffffff; /* Remplacez cette valeur par la couleur de fond souhaitée */
+}
+
+
+
 .projet-files {
   display: flex;
   flex-direction: column;
